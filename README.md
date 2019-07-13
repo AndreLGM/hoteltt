@@ -1,3 +1,2 @@
 # Hoteltt
-Practice html and css site
-Not responsive
+Practice html/css site & not responsive
